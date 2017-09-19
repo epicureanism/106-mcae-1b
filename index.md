@@ -1,5 +1,5 @@
 
-## Progress
+## Outline
 
 - 9/25 Week 1
   - Orientation
