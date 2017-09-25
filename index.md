@@ -11,7 +11,7 @@
   - Ch.1 - Variables
   - Ch.2 - Logic control
   - Output
-    - 2nd APP - Timer
+    - 2nd APP - Stopwatch
     - 3rd APP - Password Login
 - 10/9 (day off)
 - 10/16 Week 3
